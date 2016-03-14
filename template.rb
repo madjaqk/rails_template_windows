@@ -1,7 +1,6 @@
 # Rails template originally written by Jack Brounstein for CodingDojo
 
-# Save this file to your rails folder (the directory where you'll be creating your project)
-# To use: rails new project_name --skip-test-unit -m template.rb
+# To use: rails new project_name --skip-test-unit -m rails_template_windows/template.rb
 
 # Necessary fix for Windows
 gem 'coffee-script-source', '1.8.0'
