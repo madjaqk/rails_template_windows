@@ -18,7 +18,7 @@ gem_group :development, :test do
 end
 # If using Capybara: After create, go to spec_helper.rb and add "config.include Capybara::DSL" inside "RSpec.configure do |config|" block
 
-# To add: I never used the Bootstrap gem, but I think it's useful.
+# To add: I never used the Bootstrap gem, but it's probably useful.
 
 run 'bundle install'
 
